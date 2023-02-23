@@ -1,0 +1,63 @@
+R version 4.1.0 (2021-05-18)
+Platform: x86_64-pc-linux-gnu (64-bit)
+Running under: Ubuntu 20.04.3 LTS
+
+Matrix products: default
+BLAS:   /home/boss_lab/Apps/R-4.1.0/lib/libRblas.so
+LAPACK: /home/boss_lab/Apps/R-4.1.0/lib/libRlapack.so
+
+locale:
+ [1] LC_CTYPE=C.UTF-8       LC_NUMERIC=C           LC_TIME=C.UTF-8       
+ [4] LC_COLLATE=C.UTF-8     LC_MONETARY=C.UTF-8    LC_MESSAGES=C.UTF-8   
+ [7] LC_PAPER=C.UTF-8       LC_NAME=C              LC_ADDRESS=C          
+[10] LC_TELEPHONE=C         LC_MEASUREMENT=C.UTF-8 LC_IDENTIFICATION=C   
+
+attached base packages:
+[1] grid      stats4    stats     graphics  grDevices utils     datasets 
+[8] methods   base     
+
+other attached packages:
+ [1] TxDb.Hsapiens.UCSC.hg38.knownGene_3.14.0
+ [2] SGSeq_1.28.0                            
+ [3] SplicingGraphs_1.34.0                   
+ [4] Rgraphviz_2.38.0                        
+ [5] graph_1.72.0                            
+ [6] GenomicAlignments_1.30.0                
+ [7] Rsamtools_2.10.0                        
+ [8] Biostrings_2.62.0                       
+ [9] XVector_0.34.0                          
+[10] SummarizedExperiment_1.24.0             
+[11] MatrixGenerics_1.6.0                    
+[12] matrixStats_0.61.0                      
+[13] GenomicFeatures_1.46.1                  
+[14] AnnotationDbi_1.56.2                    
+[15] Biobase_2.54.0                          
+[16] GenomicRanges_1.46.0                    
+[17] GenomeInfoDb_1.30.0                     
+[18] IRanges_2.28.0                          
+[19] S4Vectors_0.32.2                        
+[20] BiocGenerics_0.40.0                     
+
+loaded via a namespace (and not attached):
+ [1] httr_1.4.2             bit64_4.0.5            assertthat_0.2.1      
+ [4] BiocManager_1.30.16    BiocFileCache_2.2.0    blob_1.2.2            
+ [7] GenomeInfoDbData_1.2.7 yaml_2.2.1             progress_1.2.2        
+[10] pillar_1.6.4           RSQLite_2.2.9          lattice_0.20-45       
+[13] glue_1.6.0             RUnit_0.4.32           digest_0.6.29         
+[16] Matrix_1.3-4           XML_3.99-0.8           pkgconfig_2.0.3       
+[19] biomaRt_2.50.0         zlibbioc_1.40.0        purrr_0.3.4           
+[22] BiocParallel_1.28.0    tibble_3.1.6           KEGGREST_1.34.0       
+[25] generics_0.1.1         ellipsis_0.3.2         cachem_1.0.6          
+[28] magrittr_2.0.1         crayon_1.4.2           memoise_2.0.1         
+[31] fansi_0.5.0            xml2_1.3.3             tools_4.1.0           
+[34] RMariaDB_1.1.2         prettyunits_1.1.1      hms_1.1.1             
+[37] BiocIO_1.4.0           lifecycle_1.0.1        stringr_1.4.0         
+[40] DelayedArray_0.20.0    compiler_4.1.0         rlang_0.4.12          
+[43] RCurl_1.98-1.5         rjson_0.2.20           rappdirs_0.3.3        
+[46] igraph_1.2.8           bitops_1.0-7           restfulr_0.0.13       
+[49] DBI_1.1.2              curl_4.3.2             R6_2.5.1              
+[52] lubridate_1.8.0        dplyr_1.0.7            rtracklayer_1.54.0    
+[55] fastmap_1.1.0          bit_4.0.4              utf8_1.2.2            
+[58] filelock_1.0.2         stringi_1.7.6          parallel_4.1.0        
+[61] Rcpp_1.0.7             vctrs_0.3.8            png_0.1-7             
+[64] dbplyr_2.1.1           tidyselect_1.1.1      
