@@ -6,10 +6,11 @@ Chris Scharer
 
 Scripts used for processing bulk RNA-seq and ATAC-seq data from raw fastq files through differential analysis.
 
-A transcriptionally distinct subset of Influenza-specific effector memory B cells predicts long-lived antibody responses to vaccination in humans
+**A transcriptionally distinct subset of Influenza-specific effector memory B cells predicts long-lived antibody responses to vaccination in humans**
+
 Anoma Nellore, Esther Zumaquero, Christopher D. Scharer, Christopher F. Fucile, Christopher M. Tipton, R. Glenn King, Tian Mi, Betty Mousseau, John E. Bradley, Fen Zhou, Stuti Mutneja, Paul A. Goepfert, Jeremy M. Boss, Troy D. Randall, Ignacio Sanz, Alexander F. Rosenberg, Frances E. Lund
 
-Citation:
+[Citation](https://www.biorxiv.org/content/10.1101/643973v2)
 
 # Analysis Folders and Routines
 
